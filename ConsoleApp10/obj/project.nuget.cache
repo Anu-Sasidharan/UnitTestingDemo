@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHquOAEyKEw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\351353\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.14\\microsoft.windowsdesktop.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\351353\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.14\\microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\351353\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.14\\microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "C:\\Users\\351353\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.14\\microsoft.netcore.app.host.win-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

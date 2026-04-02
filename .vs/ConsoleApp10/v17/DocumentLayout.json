@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{324E2D31-27F7-4ED4-AA95-7CE1E1BEDAED}|ShapeFactoryTests\\ShapeFactoryTests.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\shapefactorytests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{324E2D31-27F7-4ED4-AA95-7CE1E1BEDAED}|ShapeFactoryTests\\ShapeFactoryTests.csproj|solutionrelative:shapefactorytests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E861C6C4-E20C-4757-B659-294335A6CF37}|ConsoleApplication10.Tests\\ConsoleApplication10.Tests.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapplication10.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E861C6C4-E20C-4757-B659-294335A6CF37}|ConsoleApplication10.Tests\\ConsoleApplication10.Tests.csproj|solutionrelative:consoleapplication10.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DBE3AD-6BD4-497E-9145-81968C33C4DE}|ProductServiceTests\\ProductServiceTests.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\productservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DBE3AD-6BD4-497E-9145-81968C33C4DE}|ProductServiceTests\\ProductServiceTests.csproj|solutionrelative:productservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFC4185-06A2-4DBB-9537-7D0A440DE377}|GreetingServiceTests\\GreetingServiceTests.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\greetingservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAFC4185-06A2-4DBB-9537-7D0A440DE377}|GreetingServiceTests\\GreetingServiceTests.csproj|solutionrelative:greetingservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282532B8-12A7-4C21-8CF4-D7065797AE72}|TestProject1\\TestProject1.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282532B8-12A7-4C21-8CF4-D7065797AE72}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\351353\\source\\repos\\consoleapp10\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D30F051-E7E0-43D5-AEC2-7360D51E8ED3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Circle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Circle.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Circle.cs",
+              "RelativeToolTip": "ConsoleApp10\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:31:52.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ShapeFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\ShapeFactory.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ShapeFactory.cs",
+              "RelativeToolTip": "ConsoleApp10\\ShapeFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:31:26.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ProductServiceTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductServiceTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ProductServiceTests\\UnitTest1.cs",
+              "RelativeToolTip": "ProductServiceTests\\UnitTest1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:25:20.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ProductService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\ProductService.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ProductService.cs",
+              "RelativeToolTip": "ConsoleApp10\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:23:32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApplication10.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ConsoleApplication10.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApplication10.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ConsoleApplication10.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:03:32.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Rectangle.cs",
+              "RelativeToolTip": "ConsoleApp10\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:32:43.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Shape.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Shape.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Shape.cs",
+              "RelativeToolTip": "ConsoleApp10\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:31:45.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ShapeFactoryTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ShapeFactoryTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ShapeFactoryTests\\UnitTest1.cs",
+              "RelativeToolTip": "ShapeFactoryTests\\UnitTest1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:34:38.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\ShoppingCart.cs",
+              "RelativeToolTip": "ConsoleApp10\\ShoppingCart.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:39:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Product.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Product.cs",
+              "RelativeToolTip": "ConsoleApp10\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:24:06.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\GreetingServiceTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GreetingServiceTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\GreetingServiceTests\\UnitTest1.cs",
+              "RelativeToolTip": "GreetingServiceTests\\UnitTest1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:57:29.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GreetingService.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\GreetingService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\GreetingService.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\GreetingService.cs",
+              "RelativeToolTip": "ConsoleApp10\\GreetingService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:55:40.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:40:41.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Utility.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Utility.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Utility.cs",
+              "RelativeToolTip": "ConsoleApp10\\Utility.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:15:23.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp10\\Program.cs",
+              "ToolTip": "C:\\Users\\351353\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "RelativeToolTip": "ConsoleApp10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:02:28.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
